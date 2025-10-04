@@ -1,0 +1,21 @@
+# Ignorar entorno virtual
+.venv/
+venv/
+
+# Archivos de configuración de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local de VSCode o PyCharm
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos sensibles
+api_key.txt
+
